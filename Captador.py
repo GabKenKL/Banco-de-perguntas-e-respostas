@@ -63,29 +63,6 @@ def main():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Perguntas e respostas armazenadas
 def respostas():
     global Frase
@@ -122,19 +99,6 @@ def respostas():
 print('MÁQUINA ACUMULADORA DE RESPOSTAS' + '\n' + 'VERSÃO 1.2')
 if (__name__ == '__main__'):
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
