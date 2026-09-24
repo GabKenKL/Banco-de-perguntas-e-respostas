@@ -54,7 +54,7 @@ def main():
     while (Frase != 'Tchau'):
         print() #Apenas para melhora da visualização em console
         if (cta == 0):
-            print('Olá, eu sou a máquina que busca ser sua amiga! Faça perguntas para mim e se eu souber te responderei. Quando quiser ir embora, basta digitar Tchau.')
+            print('Olá, eu sou a máquina captadora de perguntas e respostas! Faça perguntas para mim e se eu souber te responderei. Quando quiser ir embora, basta digitar "Tchau" literalmente.')
             cta = cta + 1
         Frase = str(input('O que você gostaria de dizer: '))
         respostas()
